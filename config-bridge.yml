@@ -1,0 +1,16 @@
+#A special config file for Bot.
+transport:
+  groups:
+     - ['telegram/-1001424411997', 'discord/889385011713814538', 'irc/##spqlc']
+     - ['discord/815268286208016455', 'discord/889382088732729395', 'irc/##countryalwayssunny', 'telegram/-1001363287262']#sunny
+     - <linkid = "sid">#sid
+     - ['telegram/-1001567218709', 'discord/907071633326501959']#WNUGCO
+     - ['telegram/-1001784011357', 'discord/907071217087938601', 'qq/966032496']#WNUG
+     - ['telegram/-1001619855706', 'discord/916227212393447424']#hehua
+     - ['<linkid-qq = "Eie">','telegram/-1001555708541','discord/88938222719926273','irc/##echn-channel']#Eie
+     - ['telegram/-1001384421101','discord/745522613140324403','irc/##sickmanwp']#sickmanwp
+     - ['discord/962315217742729297','telegram/-1001318730304','irc/#wikimedia-wgmc']#CNUG
+     - ['telegram/-1001249628096','discord/778621434096386048']#sickmanhistory
+     - ['telegram/-1001765084143','discord/964523205496799263']#cnug-connect
+     - ['telegram/-1001742775608', 'irc/#lfhsheng_empire_group']#lfeng
+     - ['telegram/-1001594192536','discord/970695795978403910']#sunafterrain
