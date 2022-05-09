@@ -12,5 +12,5 @@ transport:
      - ['discord/962315217742729297','telegram/-1001318730304','irc/#wikimedia-wgmc']#CNUG
      - ['telegram/-1001249628096','discord/778621434096386048']#sickmanhistory
      - ['telegram/-1001765084143','discord/964523205496799263']#cnug-connect
-     - ['telegram/-1001742775608', 'irc/#lfhsheng_empire_group']#lfeng
+     - ['telegram/-1001742775608', 'discord/970678771659202600', 'irc/#lfhsheng_empire_group']#lfeng
      - ['telegram/-1001594192536','discord/970695795978403910', 'irc/##sunafterrainempire']#sunafterrain
